@@ -1,6 +1,6 @@
 {
 	"description": "Wolters Kluwer Dummy Project",
-	"name": "wolterskluwer",
+	"name": "wolterskluwer/dummy",
 	"type": "project",
 	"homepage": "https://taxna.wolterskluwer.com/sales-and-use-tax"
 }
